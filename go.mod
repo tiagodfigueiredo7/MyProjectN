@@ -14,7 +14,7 @@ require (
 	golang.org/x/crypto v0.0.0-20211202192323-5770296d904e // indirect
 	golang.org/x/sys v0.0.0-20211205182925-97ca703d548d // indirect
 	google.golang.org/protobuf v1.27.1 // indirect
-	gopkg.in/validator.v2 v2.0.0-20210331031555-b37d688a7fb0 // indirect
+	gopkg.in/validator.v2 v2.0.0-20210331031555-b37d688a7fb0
 	gopkg.in/yaml.v2 v2.4.0 // indirect
 	gorm.io/driver/postgres v1.2.3
 	gorm.io/gorm v1.22.4
